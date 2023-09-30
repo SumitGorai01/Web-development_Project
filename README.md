@@ -1,2 +1,2 @@
-# gym_project-1
-I develop this website using html,css and js
+# web-development_project
+I develop this all website using html,css and js.
